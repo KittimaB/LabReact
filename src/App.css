@@ -9,6 +9,6 @@
  }
 
  .activeCard {
-  color: red;
-  background: pink;
+  color: rgb(86, 67, 10);
+  background: rgb(245, 232, 145);
  }
